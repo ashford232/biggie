@@ -1,5 +1,8 @@
 # Biggie
 
+<img width="200" height="200" alt="biggie" src="https://github.com/user-attachments/assets/2b42bb95-7aa1-4fd2-b9a2-2c79977cf1f0" />
+
+
 **Biggie** is a Windows desktop utility by Room06Tech for finding large files and quickly locating them on your computer.
 
 ## Features
