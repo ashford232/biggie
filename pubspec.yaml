@@ -1,0 +1,38 @@
+name: biggie
+description: "A Windows desktop utility for finding large files and locating them quickly."
+publish_to: "none"
+
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  hugeicons_pro: ^0.0.3
+  file_selector: ^1.1.0
+  flutter_riverpod: ^3.4.3
+  lite_router: ^0.1.2
+  data_table_2: ^2.7.2
+  path: ^1.9.1
+  url_launcher: ^6.3.3
+  tabbed_view: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: AsapSharp
+      fonts:
+        - asset: assets/fonts/AsapSharp.ttf
